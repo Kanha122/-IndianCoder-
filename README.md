@@ -57,6 +57,8 @@ Optimized Retention Strategies: A/B testing ensures the most effective customer 
 6. Conclusion
 Our Customer Churn Predictive Analysis solution empowers businesses with actionable intelligence to prevent customer churn. By leveraging machine learning, we enable data-driven retention strategies, optimizing business performance and profitability.
 
+Demo Video Link => https://drive.google.com/file/d/1SBNAaxPut_lGWKT8m-vB62d7NwrgVpxz/view?usp=sharing
+
 Prepared by:
 Team <IndianCoder/>
 Hackathon 2025
